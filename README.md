@@ -30,12 +30,12 @@ This project presents a real-time Bitcoin transaction monitoring system using **
    - Total and average transaction values
    - Anomalous patterns indicating potential fraud
 
-## 🛠Setup Requirements
+## Setup Requirements
 - Python 3.8+
 - `requests` and `websocket-client` libraries
 - A running Splunk instance with HEC enabled
 
-## 📎 References
+## References
 - [Blockchain WebSocket API](https://www.blockchain.com/explorer/api/api_websocket)
 
 > This project was built to explore the use of **real-time data pipelines** for blockchain transaction monitoring. It demonstrates how streaming data can drive meaningful **security and financial insights** when combined with powerful visualization tools like Splunk.
